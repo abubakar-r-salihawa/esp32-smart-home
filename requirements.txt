@@ -1,0 +1,5 @@
+esptool
+fastapi
+uvicorn[standard]
+paho-mqtt
+pyserial
